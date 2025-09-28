@@ -14,7 +14,7 @@ Currently working on personal projects and exploring new tools to grow as a deve
 ---
 
 ### 📌 Featured Projects
-- 🔗 [My Portfolio]()  
+- 🔗 [My Portfolio](https://arnau-sala.github.io/portfolio/)  
 - ♟️ [Pass Side](https://github.com/arnau-sala/your-repo)  
 - 🎉 [PlanB](https://github.com/arnau-sala/another-repo)  
 
