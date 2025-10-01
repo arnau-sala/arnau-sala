@@ -18,6 +18,7 @@ Currently working on personal projects and exploring new tools to grow as a deve
 ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=arnau-sala&combine_all_yearly_contributions=true&theme=tokyonight)
 [![trophy](https://github-profile-trophy.vercel.app/?username=arnau-sala&theme=onedark&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
+![My GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/streak?username=arnau-sala)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnau-sala&layout=compact&theme=blue_navy)  
