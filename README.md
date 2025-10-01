@@ -6,8 +6,8 @@ Currently working on personal projects and exploring new tools to grow as a deve
 ---
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=arnau-sala&theme=blueberry-duo&card_width=650)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=arnau-sala&theme=blueberry-duo&card)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnau-sala&show_icons=true&theme=blue_navy)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnau-sala&layout=compact&theme=blue_navy)  
 
