@@ -6,7 +6,7 @@ Currently working on personal projects and exploring new tools to grow as a deve
 ---
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arnau-sala&theme=blue-navy&card_width=650)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arnau-sala&theme=blueberry-duo&card_width=650)](https://git.io/streak-stats)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnau-sala&layout=compact&theme=blue_navy)  
 
