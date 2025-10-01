@@ -7,6 +7,9 @@ Currently working on personal projects and exploring new tools to grow as a deve
 
 ### 📊 GitHub Stats
 ![Arnau's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnau-sala&show_icons=true&theme=blue_navy)
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=arnau-sala&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arnau-sala&theme=algolia&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnau-sala&layout=compact&theme=blue_navy)  
 
 
