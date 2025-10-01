@@ -6,7 +6,7 @@ Currently working on personal projects and exploring new tools to grow as a deve
 ---
 
 ### 📊 GitHub Stats
-[![Arnau's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arnau-sala&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Arnau's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnau-sala&show_icons=true&theme=blue_navy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnau-sala&layout=compact&theme=blue_navy)  
 
 
