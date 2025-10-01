@@ -6,7 +6,7 @@ Currently working on personal projects and exploring new tools to grow as a deve
 ---
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnau-sala&layout=compact&theme=blue_nav¬widtd=5000)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnau-sala&layout=compact&theme=blue_nav&widtd=5000)  
 
 
 ---
