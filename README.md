@@ -20,7 +20,7 @@ Currently working on personal projects and exploring new tools to grow as a deve
 
 ### 🌍 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/arnau-sala-araujo/)  
-- 📧 arnausalaaraujo@email.com  
+- 📧 [Send Mail to arnausalaaraujo@gmail.com](mailto:arnausalaaraujo@gmail.com)
 
 ---
 
