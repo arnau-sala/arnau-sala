@@ -4,20 +4,6 @@ I'm a Computer Science student from **Barcelona, Spain**, currently working on p
 
 ---
 
-### <img src="https://api.iconify.design/mdi:chart-box.svg?color=%23F59E0B" width="16" alt="Stats icon"/> GitHub Stats
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arnau-sala&theme=github_dark"/>
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnau-sala&theme=github_dark"/>
-    </td>
-  </tr>
-</table>  
-
----
-
 ### <img src="https://api.iconify.design/mdi:briefcase.svg?color=%2310B981" width="16" alt="Portfolio icon"/> My Portfolio
 
 <table align="center">
