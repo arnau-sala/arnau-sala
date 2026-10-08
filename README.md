@@ -22,19 +22,19 @@ I'm a Computer Science student from **Barcelona, Spain**, currently working on p
 
 <table align="center">
   <tr>
+  <td align="center">
+      <a href="https://github.com/arnau-sala/finance-manager">
+        <img src="images/personal/financemanager.jpeg" width="560"/>
+      </a>
+    </td>
     <td align="center">
       <a href="https://github.com/arnau-sala/pass-side">
-        <img src="images/personal/pass-side.jpg" width="800"/>
+        <img src="images/personal/pass-side.jpg" width="525"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/arnau-sala/MovieMatch">
         <img src="images/personal/movie-match.png" width="575"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/arnau-sala/task-master">
-        <img src="images/personal/task-master.png" width="425"/>
       </a>
     </td>
   </tr>
